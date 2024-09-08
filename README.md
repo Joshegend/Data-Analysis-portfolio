@@ -1,13 +1,13 @@
-ABOUT ME
+#ABOUT ME
 
 Hi there! I’m Joshua Okoeguale, a data analyst and consultant, I excel at converting complex data into meaningful insight. With experience across sales, operations, finance, management and customer service,i am dedicated to providing solutions that foster growth, efficiency, and innovation.
 
-WHAT I DO
+#WHAT I DO
 
 My expertise lies in enabling organizations to enhance performance and make informed decisions using advanced analytics, predictive modelling, and strategic guidance.
 
 
-- The company’s sales volume and growth rate in 2020 were higher compared to industry averages. Manage resources better by matching demand with product visibility. With increasing demand, we have identified opportunities and proposed strategies for growth and expansion.
+#My Portfolio 
 
 Read More
 
@@ -27,6 +27,9 @@ Sales Conversion
 The existing marketing and sales system should be overhauled.
 
 Read More
+
+The company’s sales volume and growth rate in 2020 were higher compared to industry averages. Manage resources better by matching demand with product visibility. With increasing demand, we have identified opportunities and proposed strategies for growth and expansion.
+
 
 Procurement Analysis Report for Federal Ministry of Health.
 
