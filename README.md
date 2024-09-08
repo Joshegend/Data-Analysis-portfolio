@@ -11,9 +11,10 @@ My expertise lies in enabling organizations to enhance performance and make info
 
 Read More
 
-HR Atttrtion and Employee Analysis Report.
+*HR Atttrtion and Employee Analysis Report.*
 
-The employee satisfaction and performance is below the company’s average rating. We have identified the drive for improvement to elevate it to a higher level.
+**The employee satisfaction and performance is below the company’s average rating. We have identified the drive for improvement to elevate it to a higher level.**
+![image] (assets/hR-1.PNG)
 
 Read More
 
