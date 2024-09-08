@@ -1,4 +1,4 @@
-**ABOUT ME**
+to**ABOUT ME**
 
 Hi there! I’m Joshua Okoeguale, a data analyst and consultant, I excel at converting complex data into meaningful insight. With experience across sales, operations, finance, management and customer service,i am dedicated to providing solutions that foster growth, efficiency, and innovation.
 
@@ -25,7 +25,7 @@ Read More
 
 Sales Conversion
 
-![image](assets/HR Analysis june 2024.PNG)
+![image](assets/churn.PNG)
 
 
 
