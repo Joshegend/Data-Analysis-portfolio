@@ -27,6 +27,10 @@ Sales Conversion
 
 ![image](assets/HR Analysis june 2024.PNG)
 
+
+
+![image](assets/HR Analysis june 2024.PNG)
+
 The existing marketing and sales system should be overhauled.
 
 
