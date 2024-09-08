@@ -28,9 +28,6 @@ Sales Conversion
 ![image](assets/HRAnalysis.PNG)
 
 
-
-![image](assets/HR Analysis june 2024.PNG)
-
 The existing marketing and sales system should be overhauled.
 
 
@@ -55,6 +52,7 @@ Identified cost-saving opportunities highlight the need for more rigorous suppli
 MY CERTIFICATION
 
 HITT Data Analysis in python
+
 Skill head Data Analysis in Excel
 
 MY SKILLS (CORE)
