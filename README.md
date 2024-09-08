@@ -1,39 +1,50 @@
-#ABOUT ME
+**ABOUT ME**
 
 Hi there! I’m Joshua Okoeguale, a data analyst and consultant, I excel at converting complex data into meaningful insight. With experience across sales, operations, finance, management and customer service,i am dedicated to providing solutions that foster growth, efficiency, and innovation.
 
-#WHAT I DO
+**WHAT I DO**
 
 My expertise lies in enabling organizations to enhance performance and make informed decisions using advanced analytics, predictive modelling, and strategic guidance.
 
 
-#My Portfolio 
+**My Portfolio**
+A glimpse of some of the projects I have worked on.
 
 Read More
 
-*HR Atttrtion and Employee Analysis Report.*
+**HR Atttrtion and Employee Analysis Report.**
 
-**The employee satisfaction and performance is below the company’s average rating. We have identified the drive for improvement to elevate it to a higher level.**
+The employee satisfaction and performance is below the company’s average rating. I have identified the drive for improvement to elevate it to a higher level.
 
 ![image](assets/hR-1.PNG)
 
 
 Read More
 
-Sales Performance Analyis Report for Underwoof Properties.
+**Sales Performance Analyis Report for Underwoof Properties.**
 
 Sales Conversion
 
+![image](assets/HR Analysis june 2024.PNG)
+
 The existing marketing and sales system should be overhauled.
 
+
 Read More
+
+**Sales Performance Analysis Report For Beyond Car Ltd.**
+
+
+![image](assets/cars sales-1.PNG)
 
 The company’s sales volume and growth rate in 2020 were higher compared to industry averages. Manage resources better by matching demand with product visibility. With increasing demand, we have identified opportunities and proposed strategies for growth and expansion.
 
 
-Procurement Analysis Report for Federal Ministry of Health.
+**Procurement Analysis Report for Federal Ministry of Health.**
 
-Procurement
+![image](assets/Medical procurement.PNG)
+
+
 
 Identified cost-saving opportunities highlight the need for more rigorous supplier evaluation, including negotiating better terms based on high purchasing volumes and ensuring adherence to procurement policies.
 
